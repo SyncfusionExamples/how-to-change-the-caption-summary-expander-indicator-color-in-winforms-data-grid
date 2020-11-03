@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfDataGrid_Comparison", "SfDataGrid_Comparison\SfDataGrid_Comparison.csproj", "{72ED15E7-274C-4C16-BC7E-5AA04BF1333A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72ED15E7-274C-4C16-BC7E-5AA04BF1333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ED15E7-274C-4C16-BC7E-5AA04BF1333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ED15E7-274C-4C16-BC7E-5AA04BF1333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ED15E7-274C-4C16-BC7E-5AA04BF1333A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBC7010-FDCE-4C2B-8172-D100E9E8B690}
+	EndGlobalSection
+EndGlobal
