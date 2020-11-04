@@ -1,6 +1,6 @@
-# How to change the row indicator color in WinForms DataGrid (SfDataGrid) ?
+# How to change the CaptionSummary expander indicator color in WinForms DataGrid (SfDataGrid) ?
 
-How to change the row indicator color in WinForms DataGrid (SfDataGrid) ?
+How to change the CaptionSummary expander indicator color in WinForms DataGrid (SfDataGrid) ?
 
 # About the sample
 
